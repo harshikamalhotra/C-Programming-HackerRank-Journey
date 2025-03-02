@@ -1,3 +1,4 @@
+// Write a program to check if two integers a and b differ by exactly one bit using bitwise operators. Two numbers differ by exactly one bit if their binary representations differ in only one position.
 #include <stdio.h>
 
 int main()
